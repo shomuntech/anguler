@@ -1,2 +1,0 @@
-# anguler
-practice
